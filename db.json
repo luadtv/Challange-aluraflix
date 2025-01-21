@@ -1,0 +1,59 @@
+{
+  "videos": [
+    {
+      "id": "8",
+      "title": "¿Qué son las Soft Skills?",
+      "category": "INNOVACIÓN Y GESTIÓN",
+      "photo": "https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/vhwspfvI52k?si=jWQPbz3Ph7gX03Zb",
+      "description": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+    },
+    {
+      "title": "Ventajas de las metodologías Ágiles",
+      "category": "INNOVACIÓN Y GESTIÓN",
+      "photo": "https://i.ytimg.com/vi/p4kpHAvQH9w/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/p4kpHAvQH9w?si=ZGDif0_FdBSpWjuv",
+      "description": "En nuestra 6a edición del Café Punto Tech, hablaremos con Elizabeth León y Andyara Pedrosa dos expertas en area de la metodología Agile, la cual permite adaptar la forma en que un equipo trabaja a los requerimientos del proyecto. Agile es una nueva forma de trabajar, para cumplir con el desarrollo del proyecto de una manera rápida, flexible y adaptada a las circunstancias. Nuestras invitadas van a contarnos las principales ventajas de las metodologías Ágiles. Holi",
+      "id": "10"
+    },
+    {
+      "id": "1",
+      "title": "Qué Significa Pensar Como Programador",
+      "category": "FRONT END",
+      "photo": "https://i.ytimg.com/vi/ov7vA5HFe6w/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/ov7vA5HFe6w?si=rFYWWhqKMEWzxiJn",
+      "description": "¿Cuáles son las principales características de un programador? ¿Qué habilidades y competencias debe tener alguien que quiere seguir esa carrera? En este video Christian Velasco nos habla de las principales características de un Programador."
+    },
+    {
+      "id": "2",
+      "title": "Cuándo usar let, var y const?",
+      "category": "FRONT END",
+      "photo": "https://i.ytimg.com/vi/PztCEdIJITY/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/PztCEdIJITY?si=hfEWd-LVzlUvP_qT",
+      "description": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
+    },
+    {
+      "title": "¿Qué es JavaScript?",
+      "category": "BACK END",
+      "photo": "https://i.ytimg.com/vi/GJfOSoaXk4s/mqdefault.jpg",
+      "description": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "Equipo Front End",
+      "category": "FRONT END",
+      "photo": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/rpvrLaBQwgg?si=V1VLVFRuKgOI_y6-",
+      "description": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?"
+    },
+    {
+      "id": "fd8f",
+      "title": "¿Qué es SQL y NoSQL?",
+      "category": "BACK END",
+      "photo": "https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/cLLKVd5CNLc?si=MYp6WnXXQvqGSPYi",
+      "description": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+    }
+  ]
+}
